@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\bin\Debug\net6.0\DOG_and_friends.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\bin\Debug\net6.0\DOG_and_friends.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\bin\Debug\net6.0\DOG_and_friends.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\bin\Debug\net6.0\DOG_and_friends.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\bin\Debug\net6.0\DOG_and_friends.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\DOG_and_friends.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\DOG_and_friends.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\DOG_and_friends.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\DOG_and_friends.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\DOG_and_friends.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\DOG_and_friends.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\refint\DOG_and_friends.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\DOG_and_friends.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\DOG_and_friends.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\DOG_and_friends\obj\Debug\net6.0\ref\DOG_and_friends.dll

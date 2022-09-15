@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\bin\Debug\net6.0\Example007_triangle.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\bin\Debug\net6.0\Example007_triangle.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\bin\Debug\net6.0\Example007_triangle.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\bin\Debug\net6.0\Example007_triangle.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\bin\Debug\net6.0\Example007_triangle.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\Example007_triangle.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\Example007_triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\Example007_triangle.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\Example007_triangle.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\Example007_triangle.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\Example007_triangle.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\refint\Example007_triangle.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\Example007_triangle.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\Example007_triangle.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example007_triangle\obj\Debug\net6.0\ref\Example007_triangle.dll

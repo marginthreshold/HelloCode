@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\bin\Debug\net6.0\Example006_findMax.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\bin\Debug\net6.0\Example006_findMax.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\bin\Debug\net6.0\Example006_findMax.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\bin\Debug\net6.0\Example006_findMax.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\bin\Debug\net6.0\Example006_findMax.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\Example006_findMax.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\Example006_findMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\Example006_findMax.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\Example006_findMax.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\Example006_findMax.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\Example006_findMax.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\refint\Example006_findMax.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\Example006_findMax.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\Example006_findMax.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example006_findMax\obj\Debug\net6.0\ref\Example006_findMax.dll

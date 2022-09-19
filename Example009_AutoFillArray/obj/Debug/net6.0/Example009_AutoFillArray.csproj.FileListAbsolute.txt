@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\Example009_AutoFillArray.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\Example009_AutoFillArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\Example009_AutoFillArray.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\Example009_AutoFillArray.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\Example009_AutoFillArray.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\bin\Debug\net6.0\Example009_AutoFillArray.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\bin\Debug\net6.0\Example009_AutoFillArray.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\bin\Debug\net6.0\Example009_AutoFillArray.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\bin\Debug\net6.0\Example009_AutoFillArray.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\bin\Debug\net6.0\Example009_AutoFillArray.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\Example009_AutoFillArray.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\refint\Example009_AutoFillArray.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\Example009_AutoFillArray.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\Example009_AutoFillArray.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example009_AutoFillArray\obj\Debug\net6.0\ref\Example009_AutoFillArray.dll

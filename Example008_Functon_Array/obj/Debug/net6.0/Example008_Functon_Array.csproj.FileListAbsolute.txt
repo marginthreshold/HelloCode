@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\Example008_Functon_Array.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\Example008_Functon_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\Example008_Functon_Array.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\Example008_Functon_Array.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\Example008_Functon_Array.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\bin\Debug\net6.0\Example008_Functon_Array.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\bin\Debug\net6.0\Example008_Functon_Array.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\bin\Debug\net6.0\Example008_Functon_Array.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\bin\Debug\net6.0\Example008_Functon_Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\bin\Debug\net6.0\Example008_Functon_Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\Example008_Functon_Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\refint\Example008_Functon_Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\Example008_Functon_Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\Example008_Functon_Array.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Example008_Functon_Array\obj\Debug\net6.0\ref\Example008_Functon_Array.dll

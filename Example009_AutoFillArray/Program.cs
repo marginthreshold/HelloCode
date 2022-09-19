@@ -15,8 +15,8 @@ void FillArray(int[] colleciton)
 void PrintArray(int[] coll)
 {
     int count = coll.Length;
-    int position =0;
-    while(position<count)
+    int position = 0;
+    while (position < count)
     {
         WriteLine(coll[position]);
         position++;
@@ -24,7 +24,28 @@ void PrintArray(int[] coll)
     }
 }
 
-int[] array=new int[10];
+int[] array = new int[10];
 
 FillArray(array);
 PrintArray(array);
+
+WriteLine();
+
+int IndexOf(int[] collection, int find)
+{
+    int lenght = collection.Length;
+    int position = -1;
+    int index = 0;
+    while (index < lenght)
+    {
+        if (collection[index] == find)
+        {
+            position = index;
+            break;
+        }
+        index++;
+    }
+    return position;
+}
+
+WriteLine(IndexOf(array,4));

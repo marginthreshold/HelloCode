@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\Max Sorting.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\Max Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\Max Sorting.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\Max Sorting.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\Max Sorting.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\bin\Debug\net6.0\Max Sorting.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\bin\Debug\net6.0\Max Sorting.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\bin\Debug\net6.0\Max Sorting.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\bin\Debug\net6.0\Max Sorting.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\bin\Debug\net6.0\Max Sorting.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\Max Sorting.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\refint\Max Sorting.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\Max Sorting.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\Max Sorting.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Lecture\Programming introduction\1. C#\Examples\Max Sorting\obj\Debug\net6.0\ref\Max Sorting.dll
